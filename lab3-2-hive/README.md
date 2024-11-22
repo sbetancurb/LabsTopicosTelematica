@@ -1,6 +1,6 @@
 Una vez realizado todo el laboratorio tendran esto como resultado:
 
-Codigo SQL dentro del editor de Hive. Se utilizo el codigo [Instrucciones_SQL_Hive](lab3-2-hive/Instrucciones_SQL_Hive.md).
+Codigo SQL dentro del editor de Hive. Se utilizo el codigo [Instrucciones_SQL_Hive](Instrucciones_SQL_Hive.md).
 Se evidencia las tablas creadas en la base de datos Usernamedb:
 - hdi
 - expo
