@@ -17,13 +17,17 @@ No quedo ninguna actividad pendiente, se realizo el 100% de los laboratorios
 # 2. otra información que considere relevante para esta actividad.
 
 ## Laboratorio 3-0
-[lab3-0-aws-emr]
+* [Lab 3-0](lab3-0-aws-emr)
+
 ## Laboratorio 3-1
-
+* [Lab 3-1](lab3-1-hdfs-s3)
+  
 ## Laboratorio 3-2
-
+* [Lab 3-2](lab3-2-hive)
+  
 ## Laboratorio 3-3
-
+* [Lab 3-3](lab3-3-pyspark)
+  
 ## URL del bucket publico:
 
 https://sbetancurb.s3.us-east-1.amazonaws.com/
