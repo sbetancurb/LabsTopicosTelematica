@@ -1,0 +1,37 @@
+# Universidad EAFIT
+# Curso ST0263 Tópicos Especiales en Telemática, 2024-2
+
+# carga de datos a HDFS por terminal:
+
+actualice los paquetes:
+sudo yum update -y
+
+instale git si no lo tiene instalado en el nodo master:
+sudo yum install git -y
+  
+clone el repositorio de la materia en el nodo master:
+git clone https://github.com/st0263eafit/st0263-242.git
+
+cree la carpeta datasets:
+hdfs dfs -mkdir /user/hadoop/datasets
+
+cree la carpeta gutenberg-small dentro de datasets:
+hdfs dfs -mkdir /user/hadoop/datasets/gutenberg-small
+
+cargue los archivos en las carpetas creadas:
+
+hdfs dfs -put /root/st0263-242/bigdata/datasets/gutenberg-small/*.txt /user/hadoop/datasets/gutenberg-small/
+hdfs dfs -copyFromLocal /root/st0263-242/bigdata/datasets/* /user/hadoop/datasets/
+
+listar archivos:
+hdfs dfs -ls /user/hadoop/datasets
+hdfs dfs -ls /user/hadoop/datasets/gutenberg-small
+  
+crear carpeta mis_datasets:
+mkdir -p ~/mis_datasets
+  
+Copiar archivos de HDFS hacia el servidor local (gateway):
+hdfs dfs -get /user/hadoop/datasets/gutenberg-small/* ~/mis_datasets/
+
+listar archivos:
+ls -l mis_datasets
