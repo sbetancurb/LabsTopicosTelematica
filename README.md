@@ -1,5 +1,5 @@
 # LabsTopicosTelematica
-# Estudiante(s): simon betancur, sbetancurb@eafit.edu.co
+# Estudiante: Simon Betancur, sbetancurb@eafit.edu.co
 # Profesor: Edwin Nelson Montoya, emontoya@eafit.edu.co
 
 # 1. breve descripción de la actividad
