@@ -29,5 +29,5 @@ No quedo ninguna actividad pendiente, se realizo el 100% de los laboratorios
 * [Lab 3-3](lab3-3-pyspark)
   
 ## URL del bucket publico:
+* [Bucket sbetancurb publico](https://sbetancurb.s3.us-east-1.amazonaws.com/)
 
-https://sbetancurb.s3.us-east-1.amazonaws.com/
