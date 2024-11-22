@@ -10,7 +10,7 @@ Se evidencia las tablas creadas en la base de datos Usernamedb:
 ![image](https://github.com/user-attachments/assets/fc82cc7d-b058-44ec-a78a-4f15de5b123c)
 ![image](https://github.com/user-attachments/assets/4898512d-fa26-4e2f-b0a5-fdcd3e9ef19f)
 
-Tambien se realizo el paso 2 de este laboratorio que consistia en realizar las consultas del paso 1 en un notebook aparte y cargarlas al Bucket. Para esto mirar el codigo de [Hive y SparkSQL - Paso 2](lab3-2-hive/Hive y SparkSQL - Paso 2.ipynb).
+Tambien se realizo el paso 2 de este laboratorio que consistia en realizar las consultas del paso 1 en un notebook aparte y cargarlas al Bucket. Para esto mirar el codigo de [Hive y SparkSQL - Paso 2](https://github.com/sbetancurb/LabsTopicosTelematica/blob/main/lab3-2-hive/Hive%20y%20SparkSQL%20-%20Paso%202.ipynb)
 
 Los archivos cargados en el Bucket Publico "sbetancurb"
 ![image](https://github.com/user-attachments/assets/6ee855fc-461f-4cdf-94a6-80ec38faae16)
