@@ -29,7 +29,8 @@ En tus aplicaciones dale click al URL del Hue que en este caso se llamara Tonali
 ![image](https://github.com/user-attachments/assets/cc045642-e949-46a8-8acd-cc36dbf08445)
 
 Alli te pedira que ingreses con usuario y contraseña, asegurate de usar hadoop como usuario y elige una contraseña de tu gusto
-![image](https://github.com/user-attachments/assets/47e135e7-8e37-454e-92d3-69f25df56ee2)
+
+![image](https://github.com/user-attachments/assets/9b6cd46a-6dd2-4f06-ac72-ca1236ff0b30)
 
 Esto veras cuando ingreses
 ![image](https://github.com/user-attachments/assets/0341201b-dd6c-4677-80d0-45e1783518bc)
