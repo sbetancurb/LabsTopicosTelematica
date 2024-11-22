@@ -16,6 +16,14 @@ No quedo ninguna actividad pendiente, se realizo el 100% de los laboratorios
 
 # 2. otra información que considere relevante para esta actividad.
 
-# URL del bucket publico:
+## Laboratorio 3-0
+[lab3-0-aws-emr]
+## Laboratorio 3-1
+
+## Laboratorio 3-2
+
+## Laboratorio 3-3
+
+## URL del bucket publico:
 
 https://sbetancurb.s3.us-east-1.amazonaws.com/
